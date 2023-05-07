@@ -1,12 +1,3 @@
-
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
 ## 🚀 About Me
 
 <div align="center">
@@ -20,7 +11,9 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 ###
 
 <br clear="both">
-📫 languages
+
+🎨🪵 Design tools
+
 <div align="center">
   <a href="https://www.canva.com/" target="_blank" title="Canva"><img src="./icon/canva.svg" height="40" width="52" alt="canva logo"  /></a>
   <a href="https://www.figma.com/" target="_blank" title="Figma"><img src="./icon/figma.svg" height="40" width="52" alt="figma logo"  /></a>
@@ -35,7 +28,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 ###
 
 <br clear="both">
-📫 languages
+🔧 languages
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
@@ -52,7 +45,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 ###
 
 <br clear="both">
-📫 Technology Stack
+🛠️ Technology Stack ⚙️
 <div align="center">
 <a href="https://azure.com" title="Microsoft Azure"><img src="./icon/azure.svg" height="40" width="52" alt="azure logo" /></a>
 <a href="https://aws.amazon.com" title="Amazon Web Services"><img src="./icon/aws.svg" height="45" width="50" alt="amazonwebservices logo" /></a>
@@ -97,3 +90,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 <a href="https://www.credly.com/badges/bd15f489-b606-4d1b-811e-41db610ea242/public_url" title="Google IT Support Professional Certificate"><img src="./icon/6.svg" width="70" height="60" alt="Google logo"  /></a>
 <a href="https://www.credly.com/badges/be51ef8d-dc15-48e1-8f18-bf852ecfd49b/public_url" title="IBM Data Science Professional Certificate"><img src="./icon/7.svg" width="70" height="60" alt="IBM logo"  /></a>
 <a href="https://www.credly.com/badges/c9daa737-c116-473c-82b0-94651662fdfe/public_url" title="Cisco Networking Academy - Introduction to Cybersecurity"><img src="./icon/8.svg" width="70" height="60" alt="Cisco Networking Academy  Introduction to Cybersecurity"  /></a>
+
+
+
+🛠️🔧🪛🔩⚙️⚒️©️🟥🟥🟧🟫🟪⬛⬜◼️◼️◾◽◽▫️🔸🔶🔻🔺🔹🔷🟦🟩🟧⚪☑️❗❕💯🧷
