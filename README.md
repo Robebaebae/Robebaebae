@@ -90,7 +90,3 @@
 <a href="https://www.credly.com/badges/bd15f489-b606-4d1b-811e-41db610ea242/public_url" title="Google IT Support Professional Certificate"><img src="./icon/6.svg" width="70" height="60" alt="Google logo"  /></a>
 <a href="https://www.credly.com/badges/be51ef8d-dc15-48e1-8f18-bf852ecfd49b/public_url" title="IBM Data Science Professional Certificate"><img src="./icon/7.svg" width="70" height="60" alt="IBM logo"  /></a>
 <a href="https://www.credly.com/badges/c9daa737-c116-473c-82b0-94651662fdfe/public_url" title="Cisco Networking Academy - Introduction to Cybersecurity"><img src="./icon/8.svg" width="70" height="60" alt="Cisco Networking Academy  Introduction to Cybersecurity"  /></a>
-
-
-
-🛠️🔧🪛🔩⚙️⚒️©️🟥🟥🟧🟫🟪⬛⬜◼️◼️◾◽◽▫️🔸🔶🔻🔺🔹🔷🟦🟩🟧⚪☑️❗❕💯🧷
