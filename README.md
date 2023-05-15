@@ -1,12 +1,12 @@
 ## 🚀 About Me
 
 <div align="center">
-    <img src="./icon/gitbanner.gif" width="1000" height="500"/>
+    <img src="./icon/banner.gif" width="100%" height="auto"/>
 </div>
 
-## 🛠 Skills
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+<!-- <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2> -->
 
 ###
 
@@ -28,18 +28,13 @@
 ###
 
 <br clear="both">
-🔧 languages
+📕 Languages
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="42" alt="angularjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" width="42" alt="laravel logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" width="42" alt="laravel logo"  />
 </div>
 
 ###
@@ -60,11 +55,21 @@
 <a href="https://www.linux.org/" title="Linux"><img src="./icon/linux.svg" height="35" width="52" alt="linux logo" /></a>
 <a href="https://ubuntu.com/" title="Ubuntu"><img src="./icon/ubuntu.svg" height="40" width="52" alt="ubuntu logo" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="./icon/vscode.png" height="40" width="" alt="vscode logo" /></a><a href="https://www.cloudflare.com/products/zero-trust/" title="Cloudflare Zero Trust"><img src="./icon/cloudflare-zero-trust.svg" height="40" width="52" alt="cloudflare-zero-trust logo" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
 </div>
+
 ###
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/robe/robe/blob/output/snake.svg" alt="Snake animation" />
+📖 Currently Learning
+<div align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="42" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+
+</div>
 
 ###
 
