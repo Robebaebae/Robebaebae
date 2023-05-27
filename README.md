@@ -68,6 +68,9 @@
   <img src="./icon/angular.svg" height="30" width="42" alt="angularjs logo"  />
   <img src="./icon/mongo.svg" height="30" width="42" alt="mongodb logo"  />
   <img src="./icon/nodejs.svg" height="30" width="42" alt="nodejs logo"  />
+  <img src="./icon/materialui.svg" height="30" width="42" alt="Material logo"  />
+  <img src="./icon/tailwind.svg" height="30" width="42" alt="Tailwind logo"  />
+
 
 </div>
 
