@@ -18,7 +18,7 @@
   <a href="https://www.canva.com/" target="_blank" title="Canva"><img src="./icon/canva.svg" height="40" width="52" alt="canva logo"  /></a>
   <a href="https://www.figma.com/" target="_blank" title="Figma"><img src="./icon/figma.svg" height="40" width="52" alt="figma logo"  /></a>
   <a href="https://www.gimp.org/" target="_blank" title="GIMP"><img src="./icon/gimp.svg" height="40" width="52" alt="gimp logo"  /></a>
-  <a href="https://inkscape.org/" target="_blank" title="Inkscape"><img src="./icon/inkscape.svg" height="40" width="52" alt="inkscape logo"  /></a>
+  <a href="https://www.inkscape.org/" target="_blank" title="Inkscape"><img src="./icon/inkscape.svg" height="40" width="52" alt="inkscape logo"  /></a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" title="Adobe Illustrator"><img src="./icon/ai.svg" height="40" width="52" alt="ai logo"  /></a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" title="Adobe XD"><img src="./icon/xd.svg" height="40" width="52" alt="xd logo"  /></a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" title="Adobe Photoshop"><img src="./icon/ps.svg" height="40" width="52" alt="photoshop logo"  /></a>
@@ -30,11 +30,11 @@
 <br clear="both">
 📕 Languages
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" width="42" alt="laravel logo"  />
+  <img src="./icon/html.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="./icon/css.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="./icon/js.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="./icon/php.svg" height="30" width="42" alt="php logo"  />
+  <img src="./icon/laravel.svg" height="30" width="42" alt="laravel logo"  />
 </div>
 
 ###
@@ -55,7 +55,7 @@
 <a href="https://www.linux.org/" title="Linux"><img src="./icon/linux.svg" height="35" width="52" alt="linux logo" /></a>
 <a href="https://ubuntu.com/" title="Ubuntu"><img src="./icon/ubuntu.svg" height="40" width="52" alt="ubuntu logo" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="./icon/vscode.png" height="40" width="" alt="vscode logo" /></a><a href="https://www.cloudflare.com/products/zero-trust/" title="Cloudflare Zero Trust"><img src="./icon/cloudflare-zero-trust.svg" height="40" width="52" alt="cloudflare-zero-trust logo" /></a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
+  <img src="./icon/mysql.svg" height="30" width="42" alt="mysql logo"  />
 </div>
 
 ###
@@ -64,10 +64,10 @@
 📖 Currently Learning
 <div align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="42" alt="angularjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+  <img src="./icon/typescript.svg" height="30" width="42" alt="typescript logo"  />
+  <img src="./icon/angular.svg" height="30" width="42" alt="angularjs logo"  />
+  <img src="./icon/mongo.svg" height="30" width="42" alt="mongodb logo"  />
+  <img src="./icon/nodejs.svg" height="30" width="42" alt="nodejs logo"  />
 
 </div>
 
