@@ -1,15 +1,3 @@
-## 🚀 About Me
-
-<div align="center">
-    <img src="./icon/banner.gif" width="100%" height="auto"/>
-</div>
-
-
-
-<!-- <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2> -->
-
-###
-
 <br clear="both">
 
 🎨🪵 Design tools
